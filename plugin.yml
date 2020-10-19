@@ -1,0 +1,10 @@
+name: tutorial
+author: J4btw
+version: 1.0
+main: me.J4btw.tutorial.tutorial
+description: Chests with diamonds
+
+commands:
+    giveitem:
+        usage: /<command>
+        description: Tutorial Command
